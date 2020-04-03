@@ -1,6 +1,6 @@
 "use strict";
 
-const TASK_COUNT = 7;
+const TASK_COUNT = 3;
 
 const createSiteMenuTemplate = () => {
   return (
